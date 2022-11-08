@@ -1,2 +1,1 @@
-Hello, Hexlet!
-This is new line.
+Hello, Hexlet! How are you?
